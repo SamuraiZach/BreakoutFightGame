@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Ball
+comment1.params=x\ y\ height\ width\ dx\ dy
+comment1.target=Ball(int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=b
+comment2.target=void\ ballReset(Breakout)
+comment3.params=
+comment3.target=int\ getSpeed()
+comment4.params=
+comment4.target=int\ getDir()
+comment5.params=b
+comment5.target=void\ setVel(Breakout)
+comment6.params=p
+comment6.target=void\ ballBounce(Breakout)
+comment7.params=p
+comment7.target=void\ update(Breakout)
+comment8.params=brush
+comment8.target=void\ draw(java.awt.Graphics2D)
+numComments=9

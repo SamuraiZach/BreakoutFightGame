@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Brick2
+comment1.params=x\ y
+comment1.target=Brick2(int,\ int)
+comment2.params=brush\ bricks2
+comment2.target=void\ drawBricks(java.awt.Graphics2D,\ Brick2[])
+comment3.params=b
+comment3.target=void\ ballBrickCollision(Ball)
+comment4.params=
+comment4.target=void\ update()
+numComments=5

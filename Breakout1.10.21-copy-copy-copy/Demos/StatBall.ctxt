@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=StatBall
+comment1.params=x\ y\ height\ width\ dy
+comment1.target=StatBall(int,\ int,\ int,\ int,\ int)
+comment2.params=p
+comment2.target=void\ update(Player)
+comment3.params=brush
+comment3.target=void\ draw(java.awt.Graphics2D)
+comment4.params=p
+comment4.target=void\ ballPlayerbounce(Player)
+comment5.params=p
+comment5.target=void\ reset(Player)
+comment6.params=
+comment6.target=boolean\ retYes()
+numComments=7

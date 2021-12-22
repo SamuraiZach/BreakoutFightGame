@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FightWinScreen
+comment1.params=brush
+comment1.target=void\ canvasClean(java.awt.Graphics2D)
+comment2.params=obj\ text
+comment2.target=int\ getTextWidth(java.awt.Graphics2D,\ java.lang.String)
+comment3.params=brush
+comment3.target=void\ drawWin(java.awt.Graphics2D)
+comment4.params=brush
+comment4.target=void\ drawLoss(java.awt.Graphics2D)
+numComments=5
