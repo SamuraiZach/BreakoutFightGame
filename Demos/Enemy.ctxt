@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=x\ y\ height\ width\ dy
+comment1.target=Enemy(int,\ int,\ int,\ int,\ int)
+comment2.params=win
+comment2.target=void\ draw(java.awt.Graphics2D)
+comment3.params=f
+comment3.target=void\ update(Fight)
+comment4.params=
+comment4.target=void\ move()
+numComments=5
